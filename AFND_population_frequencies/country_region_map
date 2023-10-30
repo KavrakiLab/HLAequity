@@ -1,0 +1,356 @@
+country,region
+Kazakhstan,Central Asia
+Kyrgyzstan,Central Asia
+Tajikistan,Central Asia
+Afghanistan,Central Asia
+Turkmenistan,Central Asia
+Uzbekistan,Central Asia
+Japan,Northeast Asia
+Mongolia,Northeast Asia
+North,Northeast Asia
+Korea,Northeast Asia
+Russia,Northeast Asia
+South,Northeast Asia
+Korea,Northeast Asia
+Bangladesh,South Asia
+India,South Asia
+Pakistan,South Asia
+Sri,South Asia
+Lanka,South Asia
+Bhutan,Southeast Asia
+Brunei,Southeast Asia
+Cambodia,Southeast Asia
+China,Southeast Asia
+Hong,Southeast Asia
+Kong,Southeast Asia
+Laos,Southeast Asia
+Macau,Southeast Asia
+Malaysia,Southeast Asia
+Myanmar,Southeast Asia
+Nepal,Southeast Asia
+Singapore,Southeast Asia
+Taiwan,Southeast Asia
+Thailand,Southeast Asia
+Vietnam,Southeast Asia
+Armenia,West Asia
+Azerbaijan,West Asia
+Bahrain,West Asia
+Cyprus,West Asia
+Gaza,West Asia
+Georgia,West Asia
+Iran,West Asia
+Iraq,West Asia
+Israel,West Asia
+Jordan,West Asia
+Kuwait,West Asia
+Lebanon,West Asia
+Oman,West Asia
+Qatar,West Asia
+Saudi,West Asia
+Arabia,West Asia
+Syria,West Asia
+Turkey,West Asia
+United,West Asia
+Arab,West Asia
+Emirates,West Asia
+West,West Asia
+Bank,West Asia
+Yemen,West Asia
+Australia,Australia
+Albania,Europe
+Andorra,Europe
+Austria,Europe
+Belarus,Europe
+Belgium,Europe
+Bosnia,Europe
+and,Europe
+Herzegovina,Europe
+Bulgaria,Europe
+Croatia,Europe
+Czech,Europe
+Republic,Europe
+Denmark,Europe
+England,Europe
+Estonia,Europe
+Faroe,Europe
+Islands,Europe
+Finland,Europe
+France,Europe
+Germany,Europe
+Gibraltar,Europe
+Greece,Europe
+Hungary,Europe
+Iceland,Europe
+Ireland,Europe
+Italy,Europe
+Latvia,Europe
+Liechtenstein,Europe
+Lithuania,Europe
+Luxembourg,Europe
+Macedonia,Europe
+Malta,Europe
+Moldova,Europe
+Monaco,Europe
+Montenegro,Europe
+Netherlands,Europe
+Northern,Europe
+Ireland,Europe
+Norway,Europe
+Poland,Europe
+Portugal,Europe
+Romania,Europe
+San,Europe
+Marino,Europe
+Scotland,Europe
+Serbia,Europe
+Slovakia,Europe
+Slovenia,Europe
+Spain,Europe
+Svalbard,Europe
+and,Europe
+Jan,Europe
+Mayen,Europe
+Islands,Europe
+Sweden,Europe
+Switzerland,Europe
+Ukraine,Europe
+United,Europe
+Kingdom,Europe
+Vatican,Europe
+Wales,Europe
+Canada,North America
+Greenland,North America
+Mexico,North America
+United,North America
+States,North America
+Algeria,North Africa
+Chad,North Africa
+Djibouti,North Africa
+Egypt,North Africa
+Eritrea,North Africa
+Ethiopia,North Africa
+Libya,North Africa
+Mali,North Africa
+Mauritania,North Africa
+Morocco,North Africa
+Niger,North Africa
+Sudan,North Africa
+Tunisia,North Africa
+Western,North Africa
+Sahara,North Africa
+American,Oceania
+Samoa,Oceania
+Borneo,Oceania
+Bouvet,Oceania
+Island,Oceania
+British,Oceania
+Indian,Oceania
+Ocean,Oceania
+Territory,Oceania
+Christmas,Oceania
+Island,Oceania
+Cocos,Oceania
+Islands,Oceania
+Cook,Oceania
+Islands,Oceania
+East,Oceania
+Timor,Oceania
+Federal,Oceania
+States,Oceania
+of,Oceania
+Micronesia,Oceania
+Fiji,Oceania
+French,Oceania
+Polynesia,Oceania
+French,Oceania
+Southern,Oceania
+Territories,Oceania
+Guam,Oceania
+Heard,Oceania
+and,Oceania
+Mc,Oceania
+Donald,Oceania
+Islands,Oceania
+Indonesia,Oceania
+Kiribati,Oceania
+Madagascar,Oceania
+Maldives,Oceania
+Marshall,Oceania
+Islands,Oceania
+Nauru,Oceania
+New,Oceania
+Caledonia,Oceania
+New,Oceania
+Zealand,Oceania
+Niue,Oceania
+Norfolk,Oceania
+Island,Oceania
+Northern,Oceania
+Mariana,Oceania
+Islands,Oceania
+Palau,Oceania
+Papua,Oceania
+New,Oceania
+Guinea,Oceania
+Philippines,Oceania
+Pitcairn,Oceania
+Islands,Oceania
+Samoa,Oceania
+Solomon,Oceania
+Islands,Oceania
+Timor-Leste,Oceania
+Tokelau,Oceania
+Tonga,Oceania
+Tuvalu,Oceania
+Vanuatu,Oceania
+Wallis,Oceania
+and,Oceania
+Futuna,Oceania
+Islands,Oceania
+Anguilla,South and Central America
+Antigua,South and Central America
+and,South and Central America
+Barbuda,South and Central America
+Argentina,South and Central America
+Aruba,South and Central America
+Bahamas,South and Central America
+Barbados,South and Central America
+Belice,South and Central America
+Bermuda,South and Central America
+Bolivia,South and Central America
+Brazil,South and Central America
+British,South and Central America
+Virgin,South and Central America
+Islands,South and Central America
+Cayman,South and Central America
+Islands,South and Central America
+Chile,South and Central America
+Colombia,South and Central America
+Costa,South and Central America
+Rica,South and Central America
+Cuba,South and Central America
+Dominica,South and Central America
+Dominican,South and Central America
+Republic,South and Central America
+Ecuador,South and Central America
+El,South and Central America
+Salvador,South and Central America
+Falkland,South and Central America
+Islands,South and Central America
+French,South and Central America
+Guiana,South and Central America
+Grenada,South and Central America
+Guadeloupe,South and Central America
+Guatemala,South and Central America
+Guyana,South and Central America
+Haiti,South and Central America
+Honduras,South and Central America
+Jamaica,South and Central America
+Martinique,South and Central America
+Montserrat,South and Central America
+Netherlands,South and Central America
+Antilles,South and Central America
+Nicaragua,South and Central America
+Panama,South and Central America
+Paraguay,South and Central America
+Peru,South and Central America
+Puerto,South and Central America
+Rico,South and Central America
+Saint,South and Central America
+Berthelemy,South and Central America
+Saint,South and Central America
+Kitts,South and Central America
+and,South and Central America
+Nevis,South and Central America
+Saint,South and Central America
+Lucia,South and Central America
+Saint,South and Central America
+Martin,South and Central America
+Saint,South and Central America
+Vincent,South and Central America
+and,South and Central America
+the,South and Central America
+Grenadines,South and Central America
+Sant,South and Central America
+Pierre,South and Central America
+and,South and Central America
+Miquelon,South and Central America
+South,South and Central America
+Georgia,South and Central America
+and,South and Central America
+South,South and Central America
+Sandwich,South and Central America
+Islands,South and Central America
+Suriname,South and Central America
+Trinidad,South and Central America
+and,South and Central America
+Tobago,South and Central America
+Turks,South and Central America
+and,South and Central America
+Caicos,South and Central America
+Islands,South and Central America
+United,South and Central America
+States,South and Central America
+Virgin,South and Central America
+Islands,South and Central America
+Venezuela,South and Central America
+Uruguay,South and Central America
+Angola,Subsajaran Africa
+Benin,Subsajaran Africa
+Botwsana,Subsajaran Africa
+Burkina,Subsajaran Africa
+Faso,Subsajaran Africa
+Burundi,Subsajaran Africa
+Cameroon,Subsajaran Africa
+Cape,Subsajaran Africa
+Verde,Subsajaran Africa
+Central,Subsajaran Africa
+African,Subsajaran Africa
+Republic,Subsajaran Africa
+Comoros,Subsajaran Africa
+Congo,Subsajaran Africa
+Cote,Subsajaran Africa
+d,Subsajaran Africa
+Ivoire,Subsajaran Africa
+Democratic,Subsajaran Africa
+Republic,Subsajaran Africa
+of,Subsajaran Africa
+the,Subsajaran Africa
+Congo,Subsajaran Africa
+Equatorial,Subsajaran Africa
+Guinea,Subsajaran Africa
+Gabon,Subsajaran Africa
+Gambia,Subsajaran Africa
+Ghana,Subsajaran Africa
+Guinea,Subsajaran Africa
+Guinea-Bissau,Subsajaran Africa
+Kenya,Subsajaran Africa
+Lesotho,Subsajaran Africa
+Liberia,Subsajaran Africa
+Malawi,Subsajaran Africa
+Mauritius,Subsajaran Africa
+Mayotte,Subsajaran Africa
+Mozambique,Subsajaran Africa
+Namibia,Subsajaran Africa
+Nigeria,Subsajaran Africa
+Reunion,Subsajaran Africa
+Rwanda,Subsajaran Africa
+Saint,Subsajaran Africa
+Helena,Subsajaran Africa
+Sao,Subsajaran Africa
+Tome,Subsajaran Africa
+and,Subsajaran Africa
+Principe,Subsajaran Africa
+Senegal,Subsajaran Africa
+Seychelles,Subsajaran Africa
+Sierra,Subsajaran Africa
+Leone,Subsajaran Africa
+Somalia,Subsajaran Africa
+South,Subsajaran Africa
+Africa,Subsajaran Africa
+Swaziland,Subsajaran Africa
+Tanzania,Subsajaran Africa
+Togo,Subsajaran Africa
+Uganda,Subsajaran Africa
+Zambia,Subsajaran Africa
+Zimbabwe,Subsajaran Africa

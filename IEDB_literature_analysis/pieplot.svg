@@ -1,0 +1,1190 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   class="main-svg"
+   width="486.88785"
+   height="320"
+   viewBox="0 0 486.88785 320"
+   version="1.1"
+   id="svg459"
+   sodipodi:docname="pieplot.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview461"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1.5114286"
+     inkscape:cx="189.88658"
+     inkscape:cy="226.27599"
+     inkscape:window-width="1920"
+     inkscape:window-height="1002"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg459"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs-a1b67a">
+    <g
+       class="clips"
+       id="g4" />
+    <g
+       class="gradients"
+       id="g6" />
+    <g
+       class="patterns"
+       id="g8" />
+  </defs>
+  <g
+     class="bglayer"
+     id="g11"
+     transform="translate(-148.5,-100)" />
+  <g
+     class="layer-below"
+     id="g17"
+     transform="translate(-148.5,-100)">
+    <g
+       class="imagelayer"
+       id="g13" />
+    <g
+       class="shapelayer"
+       id="g15" />
+  </g>
+  <g
+     class="cartesianlayer"
+     id="g19"
+     transform="translate(-148.5,-100)" />
+  <g
+     class="polarlayer"
+     id="g21"
+     transform="translate(-148.5,-100)" />
+  <g
+     class="ternarylayer"
+     id="g23"
+     transform="translate(-148.5,-100)" />
+  <g
+     class="geolayer"
+     id="g25"
+     transform="translate(-148.5,-100)" />
+  <g
+     class="funnelarealayer"
+     id="g27"
+     transform="translate(-148.5,-100)" />
+  <g
+     class="pielayer"
+     id="g151"
+     transform="translate(-148.5,-100)">
+    <g
+       class="trace"
+       stroke-linejoin="round"
+       style="opacity:1"
+       id="g149">
+      <g
+         class="slice"
+         id="g35">
+        <path
+           class="surface"
+           d="M 308.5,260 V 100 a 160,160 0 0 1 158.07026,184.77485 z"
+           style="fill:#636efa;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
+           id="path29" />
+        <g
+           class="slicetext"
+           id="g33">
+          <text
+             data-notex="1"
+             class="slicetext"
+             transform="translate(377.54578,205.39965)"
+             text-anchor="middle"
+             x="0"
+             y="0"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;-inkscape-font-specification:'Open Sans, verdana, arial, sans-serif Bold';white-space:pre;fill:#ffffff;fill-opacity:1"
+             id="text31">27.5%</text>
+        </g>
+      </g>
+      <g
+         class="slice"
+         id="g43">
+        <path
+           class="surface"
+           d="M 308.5,260 201.40114,141.13102 A 160,160 0 0 1 308.5,100 Z"
+           style="fill:#ef553b;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
+           id="path37" />
+        <g
+           class="slicetext"
+           id="g41">
+          <text
+             data-notex="1"
+             class="slicetext"
+             transform="translate(266.23642,154.55385)"
+             text-anchor="middle"
+             x="0"
+             y="0"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;-inkscape-font-specification:'Open Sans, verdana, arial, sans-serif Bold';white-space:pre;fill:#444444;fill-opacity:1"
+             id="text39">11.7%</text>
+        </g>
+      </g>
+      <g
+         class="slice"
+         id="g51">
+        <path
+           class="surface"
+           d="M 308.5,260 152.32328,225.23173 a 160,160 0 0 1 49.07786,-84.10071 z"
+           style="fill:#00cc96;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
+           id="path45" />
+        <g
+           class="slicetext"
+           id="g49">
+          <text
+             data-notex="1"
+             class="slicetext"
+             transform="translate(202.50997,202.6712)"
+             text-anchor="middle"
+             x="0"
+             y="0"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;-inkscape-font-specification:'Open Sans, verdana, arial, sans-serif Bold';white-space:pre;fill:#444444;fill-opacity:1"
+             id="text47">9.84%</text>
+        </g>
+      </g>
+      <g
+         class="slice"
+         id="g59">
+        <path
+           class="surface"
+           d="m 308.5,260 -153.01532,46.758 a 160,160 0 0 1 -3.1614,-81.52627 z"
+           style="fill:#ab63fa;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
+           id="path53" />
+        <g
+           class="slicetext"
+           id="g57">
+          <text
+             data-notex="1"
+             class="slicetext"
+             transform="translate(181.06269,269.4402)"
+             text-anchor="middle"
+             x="0"
+             y="0"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;-inkscape-font-specification:'Open Sans, verdana, arial, sans-serif Bold';white-space:pre;fill:#444444;fill-opacity:1"
+             id="text55">8.21%</text>
+        </g>
+      </g>
+      <g
+         class="slice"
+         id="g67">
+        <path
+           class="surface"
+           d="M 308.5,260 198.23109,375.93432 A 160,160 0 0 1 155.48468,306.758 Z"
+           style="fill:#ffa15a;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
+           id="path61" />
+        <g
+           class="slicetext"
+           id="g65">
+          <text
+             data-notex="1"
+             class="slicetext"
+             transform="translate(199.93038,331.56474)"
+             text-anchor="middle"
+             x="0"
+             y="0"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;-inkscape-font-specification:'Open Sans, verdana, arial, sans-serif Bold';white-space:pre;fill:#444444;fill-opacity:1"
+             id="text63">8.18%</text>
+        </g>
+      </g>
+      <g
+         class="slice"
+         id="g75">
+        <path
+           class="surface"
+           d="M 308.5,260 268.92022,415.02723 A 160,160 0 0 1 198.23109,375.93432 Z"
+           style="fill:#19d3f3;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
+           id="path69" />
+        <g
+           class="slicetext"
+           id="g73">
+          <text
+             data-notex="1"
+             class="slicetext"
+             transform="translate(246.63567,376.29457)"
+             text-anchor="middle"
+             x="0"
+             y="0"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;-inkscape-font-specification:'Open Sans, verdana, arial, sans-serif Bold';white-space:pre;fill:#444444;fill-opacity:1"
+             id="text71">8.12%</text>
+        </g>
+      </g>
+      <g
+         class="slice"
+         id="g83">
+        <path
+           class="surface"
+           d="m 308.5,260 8.21835,159.78879 a 160,160 0 0 1 -47.79813,-4.76156 z"
+           style="fill:#ff6692;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
+           id="path77" />
+        <g
+           class="slicetext"
+           id="g81">
+          <text
+             data-notex="1"
+             class="slicetext"
+             transform="translate(294.67057,402.93212)"
+             text-anchor="middle"
+             x="0"
+             y="0"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;-inkscape-font-specification:'Open Sans, verdana, arial, sans-serif Bold';white-space:pre;fill:#444444;fill-opacity:1"
+             id="text79">4.8%</text>
+        </g>
+      </g>
+      <g
+         class="slice"
+         id="g91">
+        <path
+           class="surface"
+           d="m 308.5,260 42.54287,154.24041 a 160,160 0 0 1 -34.32452,5.54838 z"
+           style="fill:#b6e880;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
+           id="path85" />
+        <g
+           class="slicetext"
+           id="g89">
+          <text
+             data-notex="1"
+             class="slicetext"
+             transform="rotate(80.817854,-66.128347,385.3267)"
+             text-anchor="middle"
+             x="0"
+             y="0"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;-inkscape-font-specification:'Open Sans, verdana, arial, sans-serif Bold';white-space:pre;fill:#444444;fill-opacity:1"
+             id="text87">3.47%</text>
+        </g>
+      </g>
+      <g
+         class="slice"
+         id="g99">
+        <path
+           class="surface"
+           d="m 308.5,260 72.13515,142.81638 a 160,160 0 0 1 -29.59228,11.42403 z"
+           style="fill:#ff97ff;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
+           id="path93" />
+        <g
+           class="slicetext"
+           id="g97">
+          <text
+             data-notex="1"
+             class="slicetext"
+             transform="rotate(68.891045,-104.47099,448.72879)"
+             text-anchor="middle"
+             x="0"
+             y="0"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;-inkscape-font-specification:'Open Sans, verdana, arial, sans-serif Bold';white-space:pre;fill:#444444;fill-opacity:1"
+             id="text95">3.16%</text>
+        </g>
+      </g>
+      <g
+         class="slice"
+         id="g107">
+        <path
+           class="surface"
+           d="m 308.5,260 98.23351,126.29401 a 160,160 0 0 1 -26.09836,16.52237 z"
+           style="fill:#fecb52;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
+           id="path101" />
+        <g
+           class="slicetext"
+           id="g105">
+          <text
+             data-notex="1"
+             class="slicetext"
+             transform="rotate(57.662878,-152.15006,528.13657)"
+             text-anchor="middle"
+             x="0"
+             y="0"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;-inkscape-font-specification:'Open Sans, verdana, arial, sans-serif Bold';white-space:pre;fill:#444444;fill-opacity:1"
+             id="text103">3.08%</text>
+        </g>
+      </g>
+      <g
+         class="slice"
+         id="g115">
+        <path
+           class="surface"
+           d="m 308.5,260 120.12001,105.69382 a 160,160 0 0 1 -21.8865,20.60019 z"
+           style="fill:#c6cafd;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
+           id="path109" />
+        <g
+           class="slicetext"
+           id="g113">
+          <text
+             data-notex="1"
+             class="slicetext"
+             transform="rotate(46.734128,-218.24639,638.45203)"
+             text-anchor="middle"
+             x="0"
+             y="0"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;-inkscape-font-specification:'Open Sans, verdana, arial, sans-serif Bold';white-space:pre;fill:#444444;fill-opacity:1"
+             id="text111">2.99%</text>
+        </g>
+      </g>
+      <g
+         class="slice"
+         id="g123">
+        <path
+           class="surface"
+           d="m 308.5,260 136.62046,83.27575 a 160,160 0 0 1 -16.50045,22.41807 z"
+           style="fill:#f7a799;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
+           id="path117" />
+        <g
+           class="slicetext"
+           id="g121">
+          <text
+             data-notex="1"
+             class="slicetext"
+             transform="rotate(36.354311,-315.62729,801.88177)"
+             text-anchor="middle"
+             x="0"
+             y="0"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;-inkscape-font-specification:'Open Sans, verdana, arial, sans-serif Bold';white-space:pre;fill:#444444;fill-opacity:1"
+             id="text119">2.77%</text>
+        </g>
+      </g>
+      <g
+         class="slice"
+         id="g131">
+        <path
+           class="surface"
+           d="m 308.5,260 147.08373,62.97918 a 160,160 0 0 1 -10.46327,20.29657 z"
+           style="fill:#33ffc9;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
+           id="path125" />
+        <g
+           class="slicetext"
+           id="g129">
+          <text
+             data-notex="1"
+             class="slicetext"
+             transform="rotate(27.271971,-459.69623,1047.1541)"
+             text-anchor="middle"
+             x="0"
+             y="0"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;-inkscape-font-specification:'Open Sans, verdana, arial, sans-serif Bold';white-space:pre;fill:#444444;fill-opacity:1"
+             id="text127">2.27%</text>
+        </g>
+      </g>
+      <g
+         class="slice"
+         id="g139">
+        <path
+           class="surface"
+           d="m 308.5,260 153.80657,44.0856 a 160,160 0 0 1 -6.72284,18.89358 z"
+           style="fill:#e0c6fd;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
+           id="path133" />
+        <g
+           class="slicetext"
+           id="g137">
+          <text
+             data-notex="1"
+             class="slicetext"
+             transform="rotate(19.586914,-685.89818,1449.9651)"
+             text-anchor="middle"
+             x="0"
+             y="0"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;-inkscape-font-specification:'Open Sans, verdana, arial, sans-serif Bold';white-space:pre;fill:#444444;fill-opacity:1"
+             id="text135">2%</text>
+        </g>
+      </g>
+      <g
+         class="slice"
+         id="g147">
+        <path
+           class="surface"
+           d="m 308.5,260 158.07026,24.77485 a 160,160 0 0 1 -4.26369,19.31075 z"
+           style="fill:#ffdbc0;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
+           id="path141" />
+        <g
+           class="slicetext"
+           id="g145">
+          <text
+             data-notex="1"
+             class="slicetext"
+             text-anchor="middle"
+             x="0"
+             y="0"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;-inkscape-font-specification:'Open Sans, verdana, arial, sans-serif Bold';white-space:pre;fill:#2a3f5f;fill-opacity:1"
+             id="text143"
+             transform="translate(488.5808,299.34479)">1.97%</text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     class="iciclelayer"
+     id="g153"
+     transform="translate(-148.5,-100)" />
+  <g
+     class="treemaplayer"
+     id="g155"
+     transform="translate(-148.5,-100)" />
+  <g
+     class="sunburstlayer"
+     id="g157"
+     transform="translate(-148.5,-100)" />
+  <g
+     class="glimages"
+     id="g159"
+     transform="translate(-148.5,-100)" />
+  <defs
+     id="topdefs-a1b67a">
+    <g
+       class="clips"
+       id="g161" />
+    <clipPath
+       id="legenda1b67a">
+      <rect
+         width="142"
+         height="295"
+         x="0"
+         y="0"
+         id="rect163" />
+    </clipPath>
+  </defs>
+  <g
+     class="layer-above"
+     id="g171"
+     transform="translate(-148.5,-100)">
+    <g
+       class="imagelayer"
+       id="g167" />
+    <g
+       class="shapelayer"
+       id="g169" />
+  </g>
+  <g
+     class="infolayer"
+     id="g457"
+     transform="translate(-193.61153,-85.595462)">
+    <g
+       class="legend"
+       pointer-events="all"
+       transform="translate(544.14,100)"
+       id="g451">
+      <g
+         class="scrollbox"
+         clip-path="url(#legenda1b67a)"
+         id="g447">
+        <g
+           class="groups"
+           id="g445">
+          <g
+             class="traces"
+             transform="translate(0,14.5)"
+             style="opacity:1"
+             id="g191">
+            <text
+               class="legendtext"
+               text-anchor="start"
+               x="40"
+               y="4.6799998"
+               style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#2a3f5f;fill-opacity:1"
+               id="text175">United States</text>
+            <g
+               class="layers"
+               style="opacity:1"
+               id="g187">
+              <g
+                 class="legendfill"
+                 id="g177" />
+              <g
+                 class="legendlines"
+                 id="g179" />
+              <g
+                 class="legendsymbols"
+                 id="g185">
+                <g
+                   class="legendpoints"
+                   id="g183">
+                  <path
+                     class="legendpie"
+                     d="M 6,6 H -6 V -6 H 6 Z"
+                     transform="translate(20)"
+                     style="fill:#636efa;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
+                     id="path181" />
+                </g>
+              </g>
+            </g>
+            <rect
+               class="legendtoggle"
+               x="0"
+               y="-9.5"
+               width="136.35938"
+               height="19"
+               style="fill:#000000;fill-opacity:0"
+               id="rect189" />
+          </g>
+          <g
+             class="traces"
+             transform="translate(0,33.5)"
+             style="opacity:1"
+             id="g209">
+            <text
+               class="legendtext"
+               text-anchor="start"
+               x="40"
+               y="4.6799998"
+               style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#2a3f5f;fill-opacity:1"
+               id="text193">Germany</text>
+            <g
+               class="layers"
+               style="opacity:1"
+               id="g205">
+              <g
+                 class="legendfill"
+                 id="g195" />
+              <g
+                 class="legendlines"
+                 id="g197" />
+              <g
+                 class="legendsymbols"
+                 id="g203">
+                <g
+                   class="legendpoints"
+                   id="g201">
+                  <path
+                     class="legendpie"
+                     d="M 6,6 H -6 V -6 H 6 Z"
+                     transform="translate(20)"
+                     style="fill:#ef553b;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
+                     id="path199" />
+                </g>
+              </g>
+            </g>
+            <rect
+               class="legendtoggle"
+               x="0"
+               y="-9.5"
+               width="136.35938"
+               height="19"
+               style="fill:#000000;fill-opacity:0"
+               id="rect207" />
+          </g>
+          <g
+             class="traces"
+             transform="translate(0,52.5)"
+             style="opacity:1"
+             id="g227">
+            <text
+               class="legendtext"
+               text-anchor="start"
+               x="40"
+               y="4.6799998"
+               style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#2a3f5f;fill-opacity:1"
+               id="text211">Australia</text>
+            <g
+               class="layers"
+               style="opacity:1"
+               id="g223">
+              <g
+                 class="legendfill"
+                 id="g213" />
+              <g
+                 class="legendlines"
+                 id="g215" />
+              <g
+                 class="legendsymbols"
+                 id="g221">
+                <g
+                   class="legendpoints"
+                   id="g219">
+                  <path
+                     class="legendpie"
+                     d="M 6,6 H -6 V -6 H 6 Z"
+                     transform="translate(20)"
+                     style="fill:#00cc96;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
+                     id="path217" />
+                </g>
+              </g>
+            </g>
+            <rect
+               class="legendtoggle"
+               x="0"
+               y="-9.5"
+               width="136.35938"
+               height="19"
+               style="fill:#000000;fill-opacity:0"
+               id="rect225" />
+          </g>
+          <g
+             class="traces"
+             transform="translate(0,71.5)"
+             style="opacity:1"
+             id="g245">
+            <text
+               class="legendtext"
+               text-anchor="start"
+               x="40"
+               y="4.6799998"
+               style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#2a3f5f;fill-opacity:1"
+               id="text229">China</text>
+            <g
+               class="layers"
+               style="opacity:1"
+               id="g241">
+              <g
+                 class="legendfill"
+                 id="g231" />
+              <g
+                 class="legendlines"
+                 id="g233" />
+              <g
+                 class="legendsymbols"
+                 id="g239">
+                <g
+                   class="legendpoints"
+                   id="g237">
+                  <path
+                     class="legendpie"
+                     d="M 6,6 H -6 V -6 H 6 Z"
+                     transform="translate(20)"
+                     style="fill:#ab63fa;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
+                     id="path235" />
+                </g>
+              </g>
+            </g>
+            <rect
+               class="legendtoggle"
+               x="0"
+               y="-9.5"
+               width="136.35938"
+               height="19"
+               style="fill:#000000;fill-opacity:0"
+               id="rect243" />
+          </g>
+          <g
+             class="traces"
+             transform="translate(0,90.5)"
+             style="opacity:1"
+             id="g263">
+            <text
+               class="legendtext"
+               text-anchor="start"
+               x="40"
+               y="4.6799998"
+               style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#2a3f5f;fill-opacity:1"
+               id="text247">Others</text>
+            <g
+               class="layers"
+               style="opacity:1"
+               id="g259">
+              <g
+                 class="legendfill"
+                 id="g249" />
+              <g
+                 class="legendlines"
+                 id="g251" />
+              <g
+                 class="legendsymbols"
+                 id="g257">
+                <g
+                   class="legendpoints"
+                   id="g255">
+                  <path
+                     class="legendpie"
+                     d="M 6,6 H -6 V -6 H 6 Z"
+                     transform="translate(20)"
+                     style="fill:#ffa15a;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
+                     id="path253" />
+                </g>
+              </g>
+            </g>
+            <rect
+               class="legendtoggle"
+               x="0"
+               y="-9.5"
+               width="136.35938"
+               height="19"
+               style="fill:#000000;fill-opacity:0"
+               id="rect261" />
+          </g>
+          <g
+             class="traces"
+             transform="translate(0,109.5)"
+             style="opacity:1"
+             id="g281">
+            <text
+               class="legendtext"
+               text-anchor="start"
+               x="40"
+               y="4.6799998"
+               style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#2a3f5f;fill-opacity:1"
+               id="text265">United Kingdom</text>
+            <g
+               class="layers"
+               style="opacity:1"
+               id="g277">
+              <g
+                 class="legendfill"
+                 id="g267" />
+              <g
+                 class="legendlines"
+                 id="g269" />
+              <g
+                 class="legendsymbols"
+                 id="g275">
+                <g
+                   class="legendpoints"
+                   id="g273">
+                  <path
+                     class="legendpie"
+                     d="M 6,6 H -6 V -6 H 6 Z"
+                     transform="translate(20)"
+                     style="fill:#19d3f3;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
+                     id="path271" />
+                </g>
+              </g>
+            </g>
+            <rect
+               class="legendtoggle"
+               x="0"
+               y="-9.5"
+               width="136.35938"
+               height="19"
+               style="fill:#000000;fill-opacity:0"
+               id="rect279" />
+          </g>
+          <g
+             class="traces"
+             transform="translate(0,128.5)"
+             style="opacity:1"
+             id="g299">
+            <text
+               class="legendtext"
+               text-anchor="start"
+               x="40"
+               y="4.6799998"
+               style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#2a3f5f;fill-opacity:1"
+               id="text283">Netherlands</text>
+            <g
+               class="layers"
+               style="opacity:1"
+               id="g295">
+              <g
+                 class="legendfill"
+                 id="g285" />
+              <g
+                 class="legendlines"
+                 id="g287" />
+              <g
+                 class="legendsymbols"
+                 id="g293">
+                <g
+                   class="legendpoints"
+                   id="g291">
+                  <path
+                     class="legendpie"
+                     d="M 6,6 H -6 V -6 H 6 Z"
+                     transform="translate(20)"
+                     style="fill:#ff6692;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
+                     id="path289" />
+                </g>
+              </g>
+            </g>
+            <rect
+               class="legendtoggle"
+               x="0"
+               y="-9.5"
+               width="136.35938"
+               height="19"
+               style="fill:#000000;fill-opacity:0"
+               id="rect297" />
+          </g>
+          <g
+             class="traces"
+             transform="translate(0,147.5)"
+             style="opacity:1"
+             id="g317">
+            <text
+               class="legendtext"
+               text-anchor="start"
+               x="40"
+               y="4.6799998"
+               style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#2a3f5f;fill-opacity:1"
+               id="text301">Japan</text>
+            <g
+               class="layers"
+               style="opacity:1"
+               id="g313">
+              <g
+                 class="legendfill"
+                 id="g303" />
+              <g
+                 class="legendlines"
+                 id="g305" />
+              <g
+                 class="legendsymbols"
+                 id="g311">
+                <g
+                   class="legendpoints"
+                   id="g309">
+                  <path
+                     class="legendpie"
+                     d="M 6,6 H -6 V -6 H 6 Z"
+                     transform="translate(20)"
+                     style="fill:#b6e880;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
+                     id="path307" />
+                </g>
+              </g>
+            </g>
+            <rect
+               class="legendtoggle"
+               x="0"
+               y="-9.5"
+               width="136.35938"
+               height="19"
+               style="fill:#000000;fill-opacity:0"
+               id="rect315" />
+          </g>
+          <g
+             class="traces"
+             transform="translate(0,166.5)"
+             style="opacity:1"
+             id="g335">
+            <text
+               class="legendtext"
+               text-anchor="start"
+               x="40"
+               y="4.6799998"
+               style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#2a3f5f;fill-opacity:1"
+               id="text319">France</text>
+            <g
+               class="layers"
+               style="opacity:1"
+               id="g331">
+              <g
+                 class="legendfill"
+                 id="g321" />
+              <g
+                 class="legendlines"
+                 id="g323" />
+              <g
+                 class="legendsymbols"
+                 id="g329">
+                <g
+                   class="legendpoints"
+                   id="g327">
+                  <path
+                     class="legendpie"
+                     d="M 6,6 H -6 V -6 H 6 Z"
+                     transform="translate(20)"
+                     style="fill:#ff97ff;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
+                     id="path325" />
+                </g>
+              </g>
+            </g>
+            <rect
+               class="legendtoggle"
+               x="0"
+               y="-9.5"
+               width="136.35938"
+               height="19"
+               style="fill:#000000;fill-opacity:0"
+               id="rect333" />
+          </g>
+          <g
+             class="traces"
+             transform="translate(0,185.5)"
+             style="opacity:1"
+             id="g353">
+            <text
+               class="legendtext"
+               text-anchor="start"
+               x="40"
+               y="4.6799998"
+               style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#2a3f5f;fill-opacity:1"
+               id="text337">Spain</text>
+            <g
+               class="layers"
+               style="opacity:1"
+               id="g349">
+              <g
+                 class="legendfill"
+                 id="g339" />
+              <g
+                 class="legendlines"
+                 id="g341" />
+              <g
+                 class="legendsymbols"
+                 id="g347">
+                <g
+                   class="legendpoints"
+                   id="g345">
+                  <path
+                     class="legendpie"
+                     d="M 6,6 H -6 V -6 H 6 Z"
+                     transform="translate(20)"
+                     style="fill:#fecb52;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
+                     id="path343" />
+                </g>
+              </g>
+            </g>
+            <rect
+               class="legendtoggle"
+               x="0"
+               y="-9.5"
+               width="136.35938"
+               height="19"
+               style="fill:#000000;fill-opacity:0"
+               id="rect351" />
+          </g>
+          <g
+             class="traces"
+             transform="translate(0,204.5)"
+             style="opacity:1"
+             id="g371">
+            <text
+               class="legendtext"
+               text-anchor="start"
+               x="40"
+               y="4.6799998"
+               style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#2a3f5f;fill-opacity:1"
+               id="text355">Switzerland</text>
+            <g
+               class="layers"
+               style="opacity:1"
+               id="g367">
+              <g
+                 class="legendfill"
+                 id="g357" />
+              <g
+                 class="legendlines"
+                 id="g359" />
+              <g
+                 class="legendsymbols"
+                 id="g365">
+                <g
+                   class="legendpoints"
+                   id="g363">
+                  <path
+                     class="legendpie"
+                     d="M 6,6 H -6 V -6 H 6 Z"
+                     transform="translate(20)"
+                     style="fill:#c6cafd;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
+                     id="path361" />
+                </g>
+              </g>
+            </g>
+            <rect
+               class="legendtoggle"
+               x="0"
+               y="-9.5"
+               width="136.35938"
+               height="19"
+               style="fill:#000000;fill-opacity:0"
+               id="rect369" />
+          </g>
+          <g
+             class="traces"
+             transform="translate(0,223.5)"
+             style="opacity:1"
+             id="g389">
+            <text
+               class="legendtext"
+               text-anchor="start"
+               x="40"
+               y="4.6799998"
+               style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#2a3f5f;fill-opacity:1"
+               id="text373">Canada</text>
+            <g
+               class="layers"
+               style="opacity:1"
+               id="g385">
+              <g
+                 class="legendfill"
+                 id="g375" />
+              <g
+                 class="legendlines"
+                 id="g377" />
+              <g
+                 class="legendsymbols"
+                 id="g383">
+                <g
+                   class="legendpoints"
+                   id="g381">
+                  <path
+                     class="legendpie"
+                     d="M 6,6 H -6 V -6 H 6 Z"
+                     transform="translate(20)"
+                     style="fill:#f7a799;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
+                     id="path379" />
+                </g>
+              </g>
+            </g>
+            <rect
+               class="legendtoggle"
+               x="0"
+               y="-9.5"
+               width="136.35938"
+               height="19"
+               style="fill:#000000;fill-opacity:0"
+               id="rect387" />
+          </g>
+          <g
+             class="traces"
+             transform="translate(0,242.5)"
+             style="opacity:1"
+             id="g407">
+            <text
+               class="legendtext"
+               text-anchor="start"
+               x="40"
+               y="4.6799998"
+               style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#2a3f5f;fill-opacity:1"
+               id="text391">Italy</text>
+            <g
+               class="layers"
+               style="opacity:1"
+               id="g403">
+              <g
+                 class="legendfill"
+                 id="g393" />
+              <g
+                 class="legendlines"
+                 id="g395" />
+              <g
+                 class="legendsymbols"
+                 id="g401">
+                <g
+                   class="legendpoints"
+                   id="g399">
+                  <path
+                     class="legendpie"
+                     d="M 6,6 H -6 V -6 H 6 Z"
+                     transform="translate(20)"
+                     style="fill:#33ffc9;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
+                     id="path397" />
+                </g>
+              </g>
+            </g>
+            <rect
+               class="legendtoggle"
+               x="0"
+               y="-9.5"
+               width="136.35938"
+               height="19"
+               style="fill:#000000;fill-opacity:0"
+               id="rect405" />
+          </g>
+          <g
+             class="traces"
+             transform="translate(0,261.5)"
+             style="opacity:1"
+             id="g425">
+            <text
+               class="legendtext"
+               text-anchor="start"
+               x="40"
+               y="4.6799998"
+               style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#2a3f5f;fill-opacity:1"
+               id="text409">Israel</text>
+            <g
+               class="layers"
+               style="opacity:1"
+               id="g421">
+              <g
+                 class="legendfill"
+                 id="g411" />
+              <g
+                 class="legendlines"
+                 id="g413" />
+              <g
+                 class="legendsymbols"
+                 id="g419">
+                <g
+                   class="legendpoints"
+                   id="g417">
+                  <path
+                     class="legendpie"
+                     d="M 6,6 H -6 V -6 H 6 Z"
+                     transform="translate(20)"
+                     style="fill:#e0c6fd;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
+                     id="path415" />
+                </g>
+              </g>
+            </g>
+            <rect
+               class="legendtoggle"
+               x="0"
+               y="-9.5"
+               width="136.35938"
+               height="19"
+               style="fill:#000000;fill-opacity:0"
+               id="rect423" />
+          </g>
+          <g
+             class="traces"
+             transform="translate(0,280.5)"
+             style="opacity:1"
+             id="g443">
+            <text
+               class="legendtext"
+               text-anchor="start"
+               x="40"
+               y="4.6799998"
+               style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#2a3f5f;fill-opacity:1"
+               id="text427">Denmark</text>
+            <g
+               class="layers"
+               style="opacity:1"
+               id="g439">
+              <g
+                 class="legendfill"
+                 id="g429" />
+              <g
+                 class="legendlines"
+                 id="g431" />
+              <g
+                 class="legendsymbols"
+                 id="g437">
+                <g
+                   class="legendpoints"
+                   id="g435">
+                  <path
+                     class="legendpie"
+                     d="M 6,6 H -6 V -6 H 6 Z"
+                     transform="translate(20)"
+                     style="fill:#ffdbc0;fill-opacity:1;stroke:#444444;stroke-width:0;stroke-opacity:1"
+                     id="path433" />
+                </g>
+              </g>
+            </g>
+            <rect
+               class="legendtoggle"
+               x="0"
+               y="-9.5"
+               width="136.35938"
+               height="19"
+               style="fill:#000000;fill-opacity:0"
+               id="rect441" />
+          </g>
+        </g>
+      </g>
+      <rect
+         class="scrollbar"
+         rx="20"
+         ry="3"
+         width="0"
+         height="0"
+         x="0"
+         y="0"
+         style="fill:#808ba4;fill-opacity:1"
+         id="rect449" />
+    </g>
+    <g
+       class="g-gtitle"
+       id="g455" />
+  </g>
+</svg>

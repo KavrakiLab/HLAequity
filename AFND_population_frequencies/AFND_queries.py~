@@ -1,0 +1,4 @@
+# https://github.com/ramonamerong/hladownload
+from hladownload import frequency
+
+all_regions = ["Australia", "Europe", "North Africa", "North America", "North-East Asia", "Oceania", "South and Central America", "South Asia", "South-East Asia", "Sub-Saharan Africa", "Western Asia"]

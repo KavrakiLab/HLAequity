@@ -1,0 +1,262 @@
+,population,income_group,region
+0,American Samoa,Upper middle income,East Asia & Pacific
+13,Australia Cape York Peninsula Aborigine,High income,East Asia & Pacific
+23,Australia Groote Eylandt Aborigine,High income,East Asia & Pacific
+32,Australia Kimberly Aborigine,High income,East Asia & Pacific
+38,Australia New South Wales Caucasian,High income,East Asia & Pacific
+65,Australia Yuendumu Aborigine,High income,East Asia & Pacific
+92,Bolivia/Chile Aymara NA-DHS_13 (G),Lower middle income,Latin America & Caribbean
+99,Bolivia/Peru Quechua NA-DHS_12 (G),Lower middle income,Latin America & Caribbean
+109,Brazil Barra Mansa Rio State Black,Upper middle income,Latin America & Caribbean
+138,Brazil Barra Mansa Rio State Caucasian,Upper middle income,Latin America & Caribbean
+176,Brazil Mixed,Upper middle income,Latin America & Caribbean
+210,Brazil Puyanawa,Upper middle income,Latin America & Caribbean
+227,Brazil Rio de Janeiro Black,Upper middle income,Latin America & Caribbean
+252,Brazil Rio de Janeiro Caucasian,Upper middle income,Latin America & Caribbean
+290,Brazil Rio de Janeiro Parda,Upper middle income,Latin America & Caribbean
+326,Brazil Terena,Upper middle income,Latin America & Caribbean
+334,Bulgaria Romani,Upper middle income,Europe & Central Asia
+341,Cameroon Baka Pygmy,Lower middle income,Sub-Saharan Africa
+371,Cameroon Beti,Lower middle income,Sub-Saharan Africa
+399,Cameroon Sawa,Lower middle income,Sub-Saharan Africa
+428,Canada Chipewyan NA-DHS_2 (G),High income,North America
+435,Canada Cree NA-DHS_3 (G),High income,North America
+444,Canada Ojibwa NA-DHS_4 (G),High income,North America
+452,Chile Easter Island,High income,Latin America & Caribbean
+458,Chile Huilliche NA-DHS_14 (G),High income,Latin America & Caribbean
+469,China Beijing,Upper middle income,East Asia & Pacific
+487,China Canton Han,Upper middle income,East Asia & Pacific
+506,China Guangdong Province Meizhou Han,Upper middle income,East Asia & Pacific
+528,China Guangzhou,Upper middle income,East Asia & Pacific
+546,China Guizhou Province Bouyei,Upper middle income,East Asia & Pacific
+573,China Guizhou Province Miao pop 2,Upper middle income,East Asia & Pacific
+600,China Guizhou Province Shui,Upper middle income,East Asia & Pacific
+627,China Han HIV negative,Upper middle income,East Asia & Pacific
+642,China Henan HIV negative,Upper middle income,East Asia & Pacific
+657,China Hubei Han,Upper middle income,East Asia & Pacific
+704,China Inner Mongolia Region,Upper middle income,East Asia & Pacific
+746,China Jingpo Minority,Upper middle income,East Asia & Pacific
+762,China Marrow Donor Registry,Upper middle income,East Asia & Pacific
+790,China North Han,Upper middle income,East Asia & Pacific
+1100,China Qinghai Province Hui,Upper middle income,East Asia & Pacific
+1142,China Shanxi HIV negative,Upper middle income,East Asia & Pacific
+1155,China Sichuan HIV negative,Upper middle income,East Asia & Pacific
+1172,China South Han,Upper middle income,East Asia & Pacific
+1192,China Southwest Dai,Upper middle income,East Asia & Pacific
+1207,China Tibet Region Tibetan,Upper middle income,East Asia & Pacific
+1517,China Uyghur HIV negative,Upper middle income,East Asia & Pacific
+1532,China Yunnan Bulang,Upper middle income,East Asia & Pacific
+1541,China Yunnan Hani,Upper middle income,East Asia & Pacific
+1552,China Yunnan Province Han,Upper middle income,East Asia & Pacific
+1565,China Yunnan Province Lisu,Upper middle income,East Asia & Pacific
+1582,China Zhejiang Han,Upper middle income,East Asia & Pacific
+1624,Colombia Arhuaco NA-DHS_16 (G),Upper middle income,Latin America & Caribbean
+1632,Colombia Bogota Cord Blood,Upper middle income,Latin America & Caribbean
+1683,Colombia Embera NA-DHS_19 (G),Upper middle income,Latin America & Caribbean
+1690,Colombia Inga NA-DHS_11 (G),Upper middle income,Latin America & Caribbean
+1699,Colombia Kogi NA-DHS_17 (G),Upper middle income,Latin America & Caribbean
+1704,Colombia North Chimila Amerindians,Upper middle income,Latin America & Caribbean
+1725,Colombia North Wiwa El Encanto,Upper middle income,Latin America & Caribbean
+1748,Colombia Waunana NA-DHS_20 (G),Upper middle income,Latin America & Caribbean
+1754,Colombia Wayuu NA-DHS_15 (G),Upper middle income,Latin America & Caribbean
+1766,Colombia Zenu NA-DHS_18 (G),Upper middle income,Latin America & Caribbean
+1772,Colombia/Brazil Ticuna Arara NA-DHS_21 (G),Upper middle income,Latin America & Caribbean
+1776,Colombia/Brazil Ticuna Tarapaca NA-DHS_22 (G),Upper middle income,Latin America & Caribbean
+1781,Costa Rica African -Caribbean (G),Upper middle income,Latin America & Caribbean
+1811,Costa Rica Amerindians (G),Upper middle income,Latin America & Caribbean
+1835,Costa Rica Cabecar NA-DHS_9 (G),Upper middle income,Latin America & Caribbean
+1842,Costa Rica Central Valley Mestizo (G),Upper middle income,Latin America & Caribbean
+1878,Costa Rica Guanacaste Mestizo (G),Upper middle income,Latin America & Caribbean
+1910,Costa Rica Guaymi NA-DHS_10 (G),Upper middle income,Latin America & Caribbean
+1916,Czech Republic NMDR,High income,Europe & Central Asia
+1978,England Blood Donors of Mixed Ethnicity,High income,Europe & Central Asia
+2010,England North West,High income,Europe & Central Asia
+2036,Finland,High income,Europe & Central Asia
+2051,France Southeast,High income,Europe & Central Asia
+2075,Gaza,Lower middle income,Middle East & North Africa
+2098,Georgia Tibilisi,Upper middle income,Europe & Central Asia
+2121,Georgia Tibilisi Kurd,Upper middle income,Europe & Central Asia
+2137,Germany DKMS - Austria minority,High income,Europe & Central Asia
+2178,Germany DKMS - Bosnia and Herzegovina minority,Upper middle income,Europe & Central Asia
+2210,Germany DKMS - China minority,Upper middle income,East Asia & Pacific
+2259,Germany DKMS - Croatia minority,High income,Europe & Central Asia
+2299,Germany DKMS - France minority,High income,Europe & Central Asia
+2341,Germany DKMS - German donors,High income,Europe & Central Asia
+3176,Germany DKMS - Greece minority,High income,Europe & Central Asia
+3222,Germany DKMS - Italy minority,High income,Europe & Central Asia
+3264,Germany DKMS - Netherlands minority,High income,Europe & Central Asia
+3304,Germany DKMS - Portugal minority,High income,Europe & Central Asia
+3347,Germany DKMS - Romania minority,High income,Europe & Central Asia
+3385,Germany DKMS - Spain minority,High income,Europe & Central Asia
+3429,Germany DKMS - Turkey minority,High income,Europe & Central Asia
+3493,Germany DKMS - United Kingdom minority,High income,Europe & Central Asia
+3534,Germany pop 6,High income,Europe & Central Asia
+3595,Germany pop 8,High income,Europe & Central Asia
+3735,Ghana Ga-Adangbe,Lower middle income,Sub-Saharan Africa
+3758,Greece pop 6,High income,Europe & Central Asia
+3788,Greece pop 8,High income,Europe & Central Asia
+3806,Guatemala Kaqchikel NA-DHS_8 (G),Upper middle income,Latin America & Caribbean
+3820,Hong Kong Chinese BMDR,High income,East Asia & Pacific
+3854,Hong Kong Chinese HKBMDR HLA 11 loci,High income,East Asia & Pacific
+3902,India Andhra Pradesh Telugu Speaking,Lower middle income,South Asia
+3927,India Karnataka Kannada Speaking,Lower middle income,South Asia
+3950,India Kerala Malayalam speaking,Lower middle income,South Asia
+3983,India Khandesh Region Pawra,Lower middle income,South Asia
+4020,India Mumbai Maratha,Lower middle income,South Asia
+4061,India New Delhi,Lower middle income,South Asia
+4079,India Tamil Nadu,Lower middle income,South Asia
+4125,India Tamil Nadu Nadar,Lower middle income,South Asia
+4134,India West Coast Parsi,Lower middle income,South Asia
+4171,Iran Baloch,Lower middle income,Middle East & North Africa
+4211,Iran Gorgan,Lower middle income,Middle East & North Africa
+4240,Ireland Northern,High income,Europe & Central Asia
+4323,Ireland South,High income,Europe & Central Asia
+4345,Israel Arab Druze,High income,Middle East & North Africa
+4371,Israel Ashkenazi and Non Ashkenazi Jews,High income,Middle East & North Africa
+4412,Italy pop 5,High income,Europe & Central Asia
+4460,Japan Central,High income,East Asia & Pacific
+4480,Japan pop 16,High income,East Asia & Pacific
+4524,Japan pop 3,High income,East Asia & Pacific
+4545,Japan pop 5,High income,East Asia & Pacific
+4557,Kenya,Lower middle income,Sub-Saharan Africa
+4596,Kenya Luo,Lower middle income,Sub-Saharan Africa
+4644,Kenya Nandi,Lower middle income,Sub-Saharan Africa
+4692,"Kenya, Nyanza Province, Luo tribe",Lower middle income,Sub-Saharan Africa
+4721,Kosovo,Upper middle income,Europe & Central Asia
+4743,Malaysia Peninsular Chinese,Upper middle income,East Asia & Pacific
+4769,Malaysia Peninsular Indian,Lower middle income,South Asia
+4825,Malaysia Peninsular Malay,Upper middle income,East Asia & Pacific
+4891,Mali Bandiagara,Low income,Sub-Saharan Africa
+4939,Mexico Chiapas Lacandon Mayans,Upper middle income,Latin America & Caribbean
+4956,Mexico Chihuahua Tarahumara,Upper middle income,Latin America & Caribbean
+4966,Mexico Hidalgo Mezquital Valley/ Otomi,Upper middle income,Latin America & Caribbean
+4978,Mexico Mexico City Mestizo pop 2,Upper middle income,Latin America & Caribbean
+5012,Mexico Mexico City Mestizo population,Upper middle income,Latin America & Caribbean
+5042,Mexico Mixe NA-DHS_6 (G),Upper middle income,Latin America & Caribbean
+5047,Mexico Mixtec NA-DHS_5 (G),Upper middle income,Latin America & Caribbean
+5054,Mexico Oaxaca Mixe,Upper middle income,Latin America & Caribbean
+5061,Mexico Oaxaca Mixtec,Upper middle income,Latin America & Caribbean
+5074,Mexico Oaxaca Zapotec,Upper middle income,Latin America & Caribbean
+5087,Mexico Zapotec NA-DHS_7 (G),Upper middle income,Latin America & Caribbean
+5095,Morocco Atlantic Coast Chaouya,Lower middle income,Middle East & North Africa
+5123,Morocco Nador Metalsa pop 2,Lower middle income,Middle East & North Africa
+5297,Morocco Settat Chaouya,Lower middle income,Middle East & North Africa
+6063,Netherlands Leiden,High income,Europe & Central Asia
+6675,Netherlands UMCU,High income,Europe & Central Asia
+6688,New Caledonia,High income,East Asia & Pacific
+6700,New Zealand Maori with Admixed History,High income,East Asia & Pacific
+6716,New Zealand Maori with Full Ancestry,High income,East Asia & Pacific
+6724,New Zealand Polynesians with Admixed History,High income,East Asia & Pacific
+6731,New Zealand Polynesians with Full Ancestry,High income,East Asia & Pacific
+6738,Nicaragua Managua,Lower middle income,Latin America & Caribbean
+6777,Nicaragua Mestizo (G),Lower middle income,Latin America & Caribbean
+6809,Panama,High income,Latin America & Caribbean
+6862,Papua New Guinea East New Britain Rabaul,Lower middle income,East Asia & Pacific
+6874,Papua New Guinea Eastern Highlands Goroka Asaro,Lower middle income,East Asia & Pacific
+6886,Papua New Guinea Karimui Plateau Pawaia,Lower middle income,East Asia & Pacific
+6898,Papua New Guinea Madang,Lower middle income,East Asia & Pacific
+6910,Papua New Guinea West Schrader Ranges Haruai,Lower middle income,East Asia & Pacific
+6922,Papua New Guinea Wosera Abelam,Lower middle income,East Asia & Pacific
+6934,Paraguay/Argentina Ache NA-DHS_24 (G),Upper middle income,Latin America & Caribbean
+6938,Paraguay/Argentina Guarani NA-DHS_23 (G),Upper middle income,Latin America & Caribbean
+6946,Philippines Ivatan,Lower middle income,East Asia & Pacific
+7076,Poland,High income,Europe & Central Asia
+7099,Poland BMR,High income,Europe & Central Asia
+7181,Poland DKMS,High income,Europe & Central Asia
+7247,Portugal Azores Terceira Island,High income,Europe & Central Asia
+7276,Russia Belgorod region,Upper middle income,Europe & Central Asia
+7298,Russia Bering Island Aleuts,Upper middle income,Europe & Central Asia
+7314,Russia Karelia,Upper middle income,Europe & Central Asia
+7353,"Russia Nizhny Novgorod, Russians",Upper middle income,Europe & Central Asia
+7393,Russia Tundra Nentsi NA-DHS_1 (G),Upper middle income,Europe & Central Asia
+7403,Russia Tuva pop 2,Upper middle income,Europe & Central Asia
+7434,Saudi Arabia Guraiat and Hail,High income,Middle East & North Africa
+7467,Saudi Arabia pop 6 (G),High income,Middle East & North Africa
+7562,Singapore Javaneses,High income,East Asia & Pacific
+7580,Singapore Riau Malay,High income,East Asia & Pacific
+7604,Singapore SGVP Chinese CHS,High income,East Asia & Pacific
+7634,Singapore SGVP Malay MAS,High income,East Asia & Pacific
+7664,Singapore SGVP. Indian INS,Lower middle income,South Asia
+7694,Singapore Thai,High income,East Asia & Pacific
+7715,South Africa Caucasians,Upper middle income,Sub-Saharan Africa
+7751,South Africa Natal Tamil,Upper middle income,Sub-Saharan Africa
+7767,South Africa Worcester,Upper middle income,Sub-Saharan Africa
+7802,South African Black,Upper middle income,Sub-Saharan Africa
+7833,South African Indian population,Lower middle income,South Asia
+7852,South African Mixed ancestry,Upper middle income,Sub-Saharan Africa
+7876,South Korea pop 3,High income,East Asia & Pacific
+8067,"Spain (Catalunya, Navarra, Extremadura, Aaragón, Cantabria,",High income,Europe & Central Asia
+8128,"Spain, Canary Islands, Gran canaria island",High income,Europe & Central Asia
+8151,Sri Lanka Colombo,Lower middle income,South Asia
+8177,Taiwan Ami,High income,East Asia & Pacific
+8307,Taiwan Atayal,High income,East Asia & Pacific
+8437,Taiwan Bunun,High income,East Asia & Pacific
+8567,Taiwan Hakka,High income,East Asia & Pacific
+8697,Taiwan Han Chinese,High income,East Asia & Pacific
+8722,Taiwan Minnan pop 1,High income,East Asia & Pacific
+8852,Taiwan Paiwan,High income,East Asia & Pacific
+8982,Taiwan Pazeh,High income,East Asia & Pacific
+9112,Taiwan Puyuma,High income,East Asia & Pacific
+9242,Taiwan Rukai,High income,East Asia & Pacific
+9372,Taiwan Saisiat,High income,East Asia & Pacific
+9502,Taiwan Siraya,High income,East Asia & Pacific
+9632,Taiwan Tao,High income,East Asia & Pacific
+9761,Taiwan Taroko,High income,East Asia & Pacific
+9891,Taiwan Thao,High income,East Asia & Pacific
+10021,Taiwan Tsou,High income,East Asia & Pacific
+10150,Taiwan pop 2,High income,East Asia & Pacific
+10169,Tanzania Maasai,Lower middle income,Sub-Saharan Africa
+10207,USA African American,High income,North America
+10253,USA African American Bethesda,High income,North America
+10531,USA African American pop 3,High income,North America
+10571,USA African American pop 4,High income,North America
+10671,USA Alaska Yupik,High income,North America
+10785,USA Arizona Gila River Amerindian,High income,North America
+10792,USA Arizona Gila River Pima,High income,North America
+10836,USA Asian,High income,North America
+10882,USA Asian pop 2,High income,North America
+10982,USA Caucasian Bethesda,High income,North America
+11260,USA Caucasian pop 2,High income,North America
+11306,USA Caucasian pop 4,High income,North America
+11347,USA Eastern European,High income,North America
+11377,USA Hawaii Okinawa,High income,North America
+11388,USA Hispanic,High income,North America
+11434,USA Hispanic pop 2,High income,North America
+11534,USA Italy Ancestry,High income,North America
+11562,USA Mexican American Mestizo,High income,North America
+11606,USA NMDP African,High income,North America
+11717,USA NMDP African American pop 2,High income,North America
+11913,USA NMDP Alaska Native or Aleut,High income,North America
+11945,USA NMDP American Indian South or Central America,High income,North America
+11980,USA NMDP Caribean Black,High income,North America
+12036,USA NMDP Caribean Hispanic,High income,North America
+12182,USA NMDP Caribean Indian,High income,North America
+12227,USA NMDP Chinese,High income,North America
+12360,USA NMDP European Caucasian,High income,North America
+12677,USA NMDP Filipino,High income,North America
+12778,USA NMDP Hawaiian or other Pacific Islander,High income,North America
+12867,USA NMDP Hispanic South or Central American,High income,North America
+13070,USA NMDP Japanese,High income,North America
+13112,USA NMDP Korean,High income,North America
+13239,USA NMDP Mexican or Chicano,High income,North America
+13436,USA NMDP Middle Eastern or North Coast of Africa,High income,North America
+13599,USA NMDP North American Amerindian,High income,North America
+13699,USA NMDP South Asian Indian,High income,North America
+13843,USA NMDP Southeast Asian,High income,North America
+13924,USA NMDP Vietnamese,High income,North America
+14011,USA New Mexico Canoncito Navajo,High income,North America
+14015,USA North American Native,High income,North America
+14061,USA Philadelphia Caucasian,High income,North America
+14340,USA San Antonio Caucasian,High income,North America
+14576,USA San Diego,High income,North America
+14615,USA San Francisco Caucasian,High income,North America
+14638,USA South Dakota Lakota Sioux,High income,North America
+14654,USA South Texas Hispanic,High income,North America
+14861,Uganda Kampala,Low income,Sub-Saharan Africa
+14909,Uganda Kampala pop 2,Low income,Sub-Saharan Africa
+14942,United Arab Emirates Abu Dhabi,High income,Middle East & North Africa
+14970,Venezuela Sierra de Perija Yucpa,,Latin America & Caribbean
+14975,Vietnam Hanoi Kinh pop 2,Lower middle income,East Asia & Pacific
+14996,Vietnam Kinh,Lower middle income,East Asia & Pacific
+15021,Zambia Lusaka,Low income,Sub-Saharan Africa
+15069,Zimbabwe Harare Shona,Lower middle income,Sub-Saharan Africa

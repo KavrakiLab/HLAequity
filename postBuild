@@ -1,0 +1,4 @@
+#!/bin/bash
+
+gdown 1wpUSZrZadeR7IdsFgeAij_lcsVX6wob8 -O ./AFND_population_frequencies/afnd_full_allele_list.csv
+

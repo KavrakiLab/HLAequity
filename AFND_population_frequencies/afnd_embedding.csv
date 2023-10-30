@@ -1,0 +1,262 @@
+,population,country,continent,sample_size,x,y
+0,American Samoa,American Samoa,Oceania,51,-4.759167,9.283146
+1,Australia Cape York Peninsula Aborigine,Australia,Oceania,103,-4.600606,9.602727
+2,Australia Groote Eylandt Aborigine,Australia,Oceania,75,-4.155148,9.5147705
+3,Australia Kimberly Aborigine,Australia,Oceania,41,-3.9393196,9.377367
+4,Australia New South Wales Caucasian,Australia,Oceania,134,13.030068,12.212408
+5,Australia Yuendumu Aborigine,Australia,Oceania,191,-4.02322,9.492573
+6,Bolivia/Chile Aymara NA-DHS_13 (G),Bolivia,South America,20,4.718472,6.099578
+7,Bolivia/Peru Quechua NA-DHS_12 (G),Bolivia,South America,21,4.9291673,6.476276
+8,Brazil Barra Mansa Rio State Black,Brazil,South America,73,9.290354,8.897869
+9,Brazil Barra Mansa Rio State Caucasian,Brazil,South America,405,11.070947,10.970536
+10,Brazil Mixed,Brazil,South America,108,9.192624,8.9683895
+11,Brazil Puyanawa,Brazil,South America,150,5.796005,8.168774
+12,Brazil Rio de Janeiro Black,Brazil,South America,68,9.406948,9.035714
+13,Brazil Rio de Janeiro Caucasian,Brazil,South America,521,10.987334,10.877542
+14,Brazil Rio de Janeiro Parda,Brazil,South America,170,9.6343155,9.199896
+15,Brazil Terena,Brazil,South America,60,4.4378138,5.8225045
+16,Bulgaria Romani,Bulgaria,Europe,13,6.246074,8.4657545
+17,Cameroon Baka Pygmy,Cameroon,Africa,10,5.7994246,2.5016398
+18,Cameroon Beti,Cameroon,Africa,174,5.83695,2.282145
+19,Cameroon Sawa,Cameroon,Africa,13,5.836236,2.449177
+20,Canada Chipewyan NA-DHS_2 (G),Canada,North America,25,5.65249,7.910191
+21,Canada Cree NA-DHS_3 (G),Canada,North America,18,5.720193,7.9916215
+22,Canada Ojibwa NA-DHS_4 (G),Canada,North America,16,5.549296,7.772434
+23,Chile Easter Island,Chile,South America,21,-4.1527166,9.311399
+24,Chile Huilliche NA-DHS_14 (G),Chile,South America,20,5.8026958,7.768684
+25,China Beijing,China,Asia,67,-4.166167,14.513397
+26,China Canton Han,China,Asia,264,-5.7220683,13.307266
+27,China Guangdong Province Meizhou Han,China,Asia,100,-5.2877765,11.581079
+28,China Guangzhou,China,Asia,102,-5.801321,13.177574
+29,China Guizhou Province Bouyei,China,Asia,109,-5.452,11.884612
+30,China Guizhou Province Miao pop 2,China,Asia,85,-5.476325,11.975617
+31,China Guizhou Province Shui,China,Asia,153,-5.4712343,11.903403
+32,China Han HIV negative,China,Asia,72,-4.1863575,13.808362
+33,China Henan HIV negative,China,Asia,16,-4.2348337,13.782521
+34,China Hubei Han,China,Asia,3732,-5.506674,14.003128
+35,China Inner Mongolia Region,China,Asia,102,-4.1604385,14.469489
+36,China Jingpo Minority,China,Asia,105,-5.283383,12.534488
+37,China Marrow Donor Registry,China,Asia,600,-5.6106253,13.931138
+38,China North Han,China,Asia,105,-4.1203237,14.553842
+39,China Qinghai Province Hui,China,Asia,110,-4.3958745,14.511223
+40,China Shanxi HIV negative,China,Asia,22,-4.114091,14.2568035
+41,China Sichuan HIV negative,China,Asia,34,-5.6148787,13.207471
+42,China South Han,China,Asia,284,-5.91448,13.4267845
+43,China Southwest Dai,China,Asia,124,-5.4724526,12.208475
+44,China Tibet Region Tibetan,China,Asia,158,-3.9111016,14.819818
+45,China Uyghur HIV negative,China,Asia,19,5.872512,8.738148
+46,China Yunnan Bulang,China,Asia,116,-5.281684,11.6852
+47,China Yunnan Hani,China,Asia,150,-5.3288507,12.022477
+48,China Yunnan Province Han,China,Asia,101,-5.742646,12.786752
+49,China Yunnan Province Lisu,China,Asia,111,-5.285504,11.75148
+50,China Zhejiang Han,China,Asia,1734,-5.5892663,13.918495
+51,Colombia Arhuaco NA-DHS_16 (G),Colombia,South America,17,4.330814,5.367182
+52,Colombia Bogotá Cord Blood,Colombia,South America,1463,11.526892,9.658715
+53,Colombia Embera NA-DHS_19 (G),Colombia,South America,14,4.1884427,5.5245757
+54,Colombia Inga NA-DHS_11 (G),Colombia,South America,16,4.9086375,6.2688174
+55,Colombia Kogi NA-DHS_17 (G),Colombia,South America,15,4.4400063,5.3423653
+56,Colombia North Chimila Amerindians,Colombia,South America,47,4.676078,5.7478952
+57,Colombia North Wiwa El Encanto,Colombia,South America,52,4.8767443,6.44386
+58,Colombia Waunana NA-DHS_20 (G),Colombia,South America,20,4.2758827,5.65111
+59,Colombia Wayuu NA-DHS_15 (G),Colombia,South America,15,4.7423453,5.9650745
+60,Colombia Zenu NA-DHS_18 (G),Colombia,South America,16,4.6301455,5.652785
+61,Colombia/Brazil Ticuna Arara NA-DHS_21 (G),Brazil,South America,17,4.2038727,5.5627227
+62,Colombia/Brazil Ticuna Tarapaca NA-DHS_22 (G),Brazil,South America,19,4.2272716,5.6376734
+63,Costa Rica African -Caribbean (G),Costa Rica,North America,102,6.157242,2.518623
+64,Costa Rica Amerindians (G),Costa Rica,North America,125,5.2086143,7.3665304
+65,Costa Rica Cabecar NA-DHS_9 (G),Costa Rica,North America,19,4.442527,5.294751
+66,Costa Rica Central Valley Mestizo (G),Costa Rica,North America,221,11.489609,9.815151
+67,Costa Rica Guanacaste Mestizo (G),Costa Rica,North America,110,11.30216,9.322853
+68,Costa Rica Guaymi NA-DHS_10 (G),Costa Rica,North America,18,4.481734,5.3519073
+69,Czech Republic NMDR,Czech Republic,Europe,5099,11.566032,12.907125
+70,England Blood Donors of Mixed Ethnicity,England,Europe,519,12.93422,12.600701
+71,England North West,England,Europe,298,12.968007,12.54206
+72,Finland,Finland,Europe,91,12.747468,11.740064
+73,France Southeast,France,Europe,130,11.541541,11.567974
+74,Gaza,Gaza,Asia,42,8.618183,8.8363495
+75,Georgia Tibilisi,Georgia,Asia,109,10.830813,11.843721
+76,Georgia Tibilisi Kurd,Georgia,Asia,31,6.9460025,8.731209
+77,Germany DKMS - Austria minority,Austria,Europe,1698,12.084441,13.122394
+78,Germany DKMS - Bosnia and Herzegovina minority,Bosnia and Herzegovina,Europe,1028,11.228729,12.434557
+79,Germany DKMS - China minority,China,Asia,1282,-4.852117,14.328955
+80,Germany DKMS - Croatia minority,Croatia,Europe,2057,11.304945,12.455902
+81,Germany DKMS - France minority,France,Europe,1406,12.048926,13.062524
+82,Germany DKMS - German donors,Germany,Europe,3456066,12.206618,13.236142
+83,Germany DKMS - Greece minority,Germany,Europe,1894,11.114971,12.1640415
+84,Germany DKMS - Italy minority,Germany,Europe,1159,11.243302,11.878695
+85,Germany DKMS - Netherlands minority,Germany,Europe,1374,12.625862,12.966503
+86,Germany DKMS - Portugal minority,Germany,Europe,1176,11.465118,11.725128
+87,Germany DKMS - Romania minority,Germany,Europe,1234,11.411378,12.759389
+88,Germany DKMS - Spain minority,Germany,Europe,1107,11.444753,11.646922
+89,Germany DKMS - Turkey minority,Germany,Europe,4856,10.938491,12.074177
+90,Germany DKMS - United Kingdom minority,Germany,Europe,1043,12.833051,12.799543
+91,Germany pop 6,Germany,Europe,8862,12.261783,13.206358
+92,Germany pop 8,Germany,Europe,39689,12.054564,13.149855
+93,Ghana Ga-Adangbe,Ghana,Africa,131,5.748195,2.2863078
+94,Greece pop 6,Greece,Europe,242,10.838391,11.884087
+95,Greece pop 8,Greece,Europe,83,10.828453,11.870604
+96,Guatemala Kaqchikel NA-DHS_8 (G),Guatemala,North America,19,5.4153547,7.6333184
+97,Hong Kong Chinese BMDR,Hong Kong,Asia,7595,-5.8050675,13.631727
+98,Hong Kong Chinese HKBMDR HLA 11 loci,Hong Kong,Asia,5266,-5.9718356,13.338885
+99,India Andhra Pradesh Telugu Speaking,India,Asia,186,6.2541943,9.243923
+100,India Karnataka Kannada Speaking,India,Asia,174,6.095666,9.357535
+101,India Kerala Malayalam speaking,India,Asia,356,5.9633794,9.479828
+102,India Khandesh Region Pawra,India,Asia,50,4.9591265,5.5502915
+103,India Mumbai Maratha,India,Asia,91,6.2660217,8.661739
+104,India New Delhi,India,Asia,71,6.4992166,8.965529
+105,India Tamil Nadu,India,Asia,2492,6.1238065,9.355394
+106,India Tamil Nadu Nadar,India,Asia,61,6.076757,8.20075
+107,India West Coast Parsi,India,Asia,50,4.919278,5.498215
+108,Iran Baloch,Iran,Asia,100,8.245112,8.852097
+109,Iran Gorgan,Iran,Asia,64,6.4765153,8.423352
+110,Ireland Northern,Ireland Northern,Europe,1000,13.150373,12.296976
+111,Ireland South,Ireland South,Europe,250,13.060815,12.172277
+112,Israel Arab Druze,Israel,Asia,101,8.491372,8.86167
+113,Israel Ashkenazi and Non Ashkenazi Jews,Israel,Asia,146,8.375767,8.8577175
+114,Italy pop 5,Italy,Europe,975,11.171813,11.692594
+115,Japan Central,Japan,Asia,371,-3.572211,15.095359
+116,Japan pop 16,Japan,Asia,18604,-3.6399775,15.021145
+117,Japan pop 3,Japan,Asia,1018,-3.4856713,15.176714
+118,Japan pop 5,Japan,Asia,117,-3.5258813,15.131142
+119,Kenya,Kenya,Africa,144,5.8200097,2.0479722
+120,Kenya Luo,Kenya,Africa,265,5.737457,2.0238497
+121,Kenya Nandi,Kenya,Africa,240,5.9288087,2.0717793
+122,"Kenya, Nyanza Province, Luo tribe",Kenya,Africa,100,5.986975,2.061628
+123,Kosovo,Kosovo,Europe,124,10.881961,11.980941
+124,Malaysia Peninsular Chinese,Malaysia,Asia,194,-5.7620463,13.115418
+125,Malaysia Peninsular Indian,India,Asia,271,6.131065,9.299448
+126,Malaysia Peninsular Malay,Malaysia,Asia,951,-4.879815,13.044831
+127,Mali Bandiagara,Mali,Africa,138,5.90981,2.399009
+128,Mexico Chiapas Lacandon Mayans,Mexico,North America,218,4.763062,6.8336473
+129,Mexico Chihuahua Tarahumara,Mexico,North America,44,5.185207,6.7231855
+130,Mexico Hidalgo Mezquital Valley/ Otomi,Mexico,North America,72,5.6491528,7.834682
+131,Mexico Mexico City Mestizo pop 2,Mexico,North America,234,11.784233,9.408275
+132,Mexico Mexico City Mestizo population,Mexico,North America,143,11.683207,9.452492
+133,Mexico Mixe NA-DHS_6 (G),Mexico,North America,20,4.552394,6.6187673
+134,Mexico Mixtec NA-DHS_5 (G),Mexico,North America,20,4.5540876,6.561469
+135,Mexico Oaxaca Mixe,Mexico,North America,55,4.5907083,6.650626
+136,Mexico Oaxaca Mixtec,Mexico,North America,103,4.6904387,6.815214
+137,Mexico Oaxaca Zapotec,Mexico,North America,90,4.9530687,7.088462
+138,Mexico Zapotec NA-DHS_7 (G),Mexico,North America,20,4.598777,6.709633
+139,Morocco Atlantic Coast Chaouya,Morocco,Africa,98,9.153557,8.757565
+140,Morocco Nador Metalsa pop 2,Morocco,Africa,73,9.064981,8.682442
+141,Morocco Settat Chaouya,Morocco,Africa,98,9.110942,8.703092
+142,Netherlands Leiden,Netherlands,Europe,1305,12.663379,12.978744
+143,Netherlands UMCU,Netherlands,Europe,64,12.896546,11.945336
+144,New Caledonia,New Caledonia,Oceania,65,-4.4475307,9.609307
+145,New Zealand Maori with Admixed History,New Zealand,Oceania,105,-4.763103,9.758137
+146,New Zealand Maori with Full Ancestry,New Zealand,Oceania,46,-4.6171255,9.328012
+147,New Zealand Polynesians with Admixed History,New Zealand,Oceania,27,-4.6981077,9.571067
+148,New Zealand Polynesians with Full Ancestry,New Zealand,Oceania,21,-4.881406,9.572774
+149,Nicaragua Managua,Nicaragua,North America,339,11.575698,9.579475
+150,Nicaragua Mestizo (G),Nicaragua,North America,155,11.683931,9.546346
+151,Panama,Panama,North America,462,11.528304,9.375036
+152,Papua New Guinea East New Britain Rabaul,Papua New Guinea,Oceania,60,-3.9288633,9.339624
+153,Papua New Guinea Eastern Highlands Goroka Asaro,Papua New Guinea,Oceania,57,-3.8387742,9.501191
+154,Papua New Guinea Karimui Plateau Pawaia,Papua New Guinea,Oceania,80,-3.8845263,9.519428
+155,Papua New Guinea Madang,Papua New Guinea,Oceania,65,-3.9498045,9.4271
+156,Papua New Guinea West Schrader Ranges Haruai,Papua New Guinea,Oceania,55,-3.7942066,9.492584
+157,Papua New Guinea Wosera Abelam,Papua New Guinea,Oceania,131,-4.0902085,9.432005
+158,Paraguay/Argentina Ache NA-DHS_24 (G),Argentina,South America,13,4.2719946,5.5030212
+159,Paraguay/Argentina Guarani NA-DHS_23 (G),Argentina,South America,10,4.388366,5.709687
+160,Philippines Ivatan,Philippines,Asia,50,-4.9630394,9.30306
+161,Poland,Poland,Europe,200,11.294496,12.8094845
+162,Poland BMR,Poland,Europe,23595,11.356879,12.907705
+163,Poland DKMS,Poland,Europe,20653,11.529497,12.988068
+164,Portugal Azores Terceira Island,Portugal,Europe,130,11.113697,11.294845
+165,Russia Belgorod region,Russia,Europe,153,11.240474,12.579025
+166,Russia Bering Island Aleuts,Russia,Europe,104,12.064734,10.364897
+167,Russia Karelia,Russia,Europe,1075,11.435409,12.898627
+168,"Russia Nizhny Novgorod, Russians",Russia,Europe,1510,11.272603,12.7921505
+169,Russia Tundra Nentsi NA-DHS_1 (G),Russia,Europe,16,5.56266,7.8044457
+170,Russia Tuva pop 2,Russia,Europe,169,-4.2206364,14.517744
+171,Saudi Arabia Guraiat and Hail,Saudi Arabia,Asia,213,8.730983,8.949833
+172,Saudi Arabia pop 6 (G),Saudi Arabia,Asia,28927,8.943347,9.117456
+173,Singapore Javaneses,Singapore,Asia,51,-4.8527803,13.021145
+174,Singapore Riau Malay,Singapore,Asia,132,-4.917439,12.922476
+175,Singapore SGVP Chinese CHS,Singapore,Asia,96,-5.860003,13.227426
+176,Singapore SGVP Malay MAS,Singapore,Asia,89,-4.831496,12.994548
+177,Singapore SGVP. Indian INS,India,Asia,86,6.0178876,9.438815
+178,Singapore Thai,Singapore,Asia,100,-5.3469105,12.647471
+179,South Africa Caucasians,South Africa,Africa,102,12.935586,12.030862
+180,South Africa Natal Tamil,South Africa,Africa,51,6.347395,8.998658
+181,South Africa Worcester,South Africa,Africa,159,8.89629,5.732492
+182,South African Black,South Africa,Africa,142,5.923623,2.1801865
+183,South African Indian population,India,Asia,50,6.2916207,9.207309
+184,South African Mixed ancestry,South Africa,Africa,50,9.09939,8.931112
+185,South Korea pop 3,South Korea,Asia,485,-4.0071797,14.6085615
+186,"Spain (Catalunya, Navarra, Extremadura, Aaragón, Cantabria,",Spain,Europe,4335,11.40849,11.677946
+187,"Spain, Canary Islands, Gran canaria island",Spain,Europe,215,11.232576,11.230083
+188,Sri Lanka Colombo,Sri Lanka,Asia,714,6.1019793,9.407424
+189,Taiwan Ami,Taiwan,Asia,98,-4.5393023,9.167957
+190,Taiwan Atayal,Taiwan,Asia,106,-4.836817,9.001284
+191,Taiwan Bunun,Taiwan,Asia,101,-4.907405,8.914494
+192,Taiwan Hakka,Taiwan,Asia,55,-5.9534144,12.9705925
+193,Taiwan Han Chinese,Taiwan,Asia,504,-6.043966,13.340199
+194,Taiwan Minnan pop 1,Taiwan,Asia,102,-6.0484233,13.168885
+195,Taiwan Paiwan,Taiwan,Asia,51,-4.787643,9.0211115
+196,Taiwan Pazeh,Taiwan,Asia,55,-5.52221,11.954305
+197,Taiwan Puyuma,Taiwan,Asia,50,-4.658648,8.979344
+198,Taiwan Rukai,Taiwan,Asia,50,-4.8265,8.923258
+199,Taiwan Saisiat,Taiwan,Asia,51,-5.056079,9.008017
+200,Taiwan Siraya,Taiwan,Asia,51,-5.781659,12.331169
+201,Taiwan Tao,Taiwan,Asia,50,-4.161063,9.211133
+202,Taiwan Taroko,Taiwan,Asia,55,-4.9588194,9.120834
+203,Taiwan Thao,Taiwan,Asia,30,-5.061123,8.9585495
+204,Taiwan Tsou,Taiwan,Asia,51,-4.8223376,8.979817
+205,Taiwan pop 2,Taiwan,Asia,364,-5.953186,13.406747
+206,Tanzania Maasai,Tanzania,Africa,336,5.832459,2.1700945
+207,USA African American,United States,North America,252,8.796806,5.4981213
+208,USA African American Bethesda,United States,North America,187,8.787883,5.5945015
+209,USA African American pop 3,United States,North America,564,8.724636,5.553792
+210,USA African American pop 4,United States,North America,2411,8.714595,5.5080247
+211,USA Alaska Yupik,United States,North America,252,5.0585833,6.570825
+212,USA Arizona Gila River Amerindian,United States,North America,492,5.0726504,6.67841
+213,USA Arizona Gila River Pima,United States,North America,3000,5.1517196,6.699115
+214,USA Asian,United States,North America,358,-5.1167116,14.211486
+215,USA Asian pop 2,United States,North America,1772,-4.4743023,14.458909
+216,USA Caucasian Bethesda,United States,North America,307,12.950112,12.313998
+217,USA Caucasian pop 2,United States,North America,265,12.678725,12.756207
+218,USA Caucasian pop 4,United States,North America,1070,12.590631,13.070283
+219,USA Eastern European,United States,North America,558,11.754423,12.906967
+220,USA Hawaii Okinawa,United States,North America,106,-3.5304894,15.128577
+221,USA Hispanic,United States,North America,234,11.439224,10.098947
+222,USA Hispanic pop 2,United States,North America,1999,11.339071,10.155816
+223,USA Italy Ancestry,United States,North America,273,11.9469795,12.712149
+224,USA Mexican American Mestizo,United States,North America,553,11.406836,10.003957
+225,USA NMDP African,United States,North America,28557,8.655673,5.4477453
+226,USA NMDP African American pop 2,United States,North America,416581,8.661327,5.4462056
+227,USA NMDP Alaska Native or Aleut,United States,North America,1376,11.898328,10.128872
+228,USA NMDP American Indian South or Central America,United States,North America,5926,12.176188,12.551777
+229,USA NMDP Caribean Black,United States,North America,33328,8.736035,5.532711
+230,USA NMDP Caribean Hispanic,United States,North America,115374,10.982183,10.581952
+231,USA NMDP Caribean Indian,United States,North America,14339,10.8823805,10.407952
+232,USA NMDP Chinese,United States,North America,99672,-5.798962,13.792603
+233,USA NMDP European Caucasian,United States,North America,1242890,12.373928,13.130437
+234,USA NMDP Filipino,United States,North America,50614,-4.8894963,13.046548
+235,USA NMDP Hawaiian or other Pacific Islander,United States,North America,11499,-4.3286877,14.588632
+236,USA NMDP Hispanic South or Central American,United States,North America,146714,11.310816,10.165475
+237,USA NMDP Japanese,United States,North America,24582,-3.7042117,14.970971
+238,USA NMDP Korean,United States,North America,77584,-4.1330614,14.680087
+239,USA NMDP Mexican or Chicano,United States,North America,261235,11.434933,10.10235
+240,USA NMDP Middle Eastern or North Coast of Africa,United States,North America,70890,11.185989,11.907095
+241,USA NMDP North American Amerindian,United States,North America,35791,12.252916,12.551682
+242,USA NMDP South Asian Indian,United States,North America,185391,5.9908514,9.465257
+243,USA NMDP Southeast Asian,United States,North America,27978,5.8604307,9.569542
+244,USA NMDP Vietnamese,United States,North America,43540,-5.4966846,13.02698
+245,USA New Mexico Canoncito Navajo,United States,North America,42,5.17725,6.7953844
+246,USA North American Native,United States,North America,187,11.846203,9.983719
+247,USA Philadelphia Caucasian,United States,North America,141,11.765011,12.18625
+248,USA San Antonio Caucasian,United States,North America,222,12.93106,12.252661
+249,USA San Diego,United States,North America,496,11.543662,10.502352
+250,USA San Francisco Caucasian,United States,North America,220,12.868906,12.584552
+251,USA South Dakota Lakota Sioux,United States,North America,302,5.5312486,7.770427
+252,USA South Texas Hispanic,United States,North America,194,11.649292,9.512521
+253,Uganda Kampala,Uganda,Africa,161,9.616907,9.155741
+254,Uganda Kampala pop 2,Uganda,Africa,175,5.875843,2.0731444
+255,United Arab Emirates Abu Dhabi,United Arab Emirates,Asia,52,8.648112,9.00904
+256,Venezuela Sierra de Perija Yucpa,Venezuela,South America,73,4.3364663,5.492778
+257,Vietnam Hanoi Kinh pop 2,Vietnam,Asia,170,-5.405291,12.831368
+258,Vietnam Kinh,Vietnam,Asia,101,-5.5458612,12.696835
+259,Zambia Lusaka,Zambia,Africa,44,5.948462,2.2510004
+260,Zimbabwe Harare Shona,Zimbabwe,Africa,230,6.0450444,2.16094

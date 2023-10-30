@@ -1,0 +1,37 @@
+---
+title: "Compute NMDS for different countries and their allele frequency"
+output: html_notebook
+---
+
+```{r}
+library(readr)
+
+# Import the data and look at the first six rows
+country_similarities <- read_csv("./country_similarities.csv")
+head(country_similarities)
+```
+
+
+```
+
+countries <- country_similarities[,c(1)]
+len <- length(country_similarities)
+
+dissim_mat <- as.matrix(country_similarities[,c(2:len)])
+
+res <- cmdscale(dissim_mat)
+ 
+plot(res)
+                        
+write.table(res, "./mds_results.csv")
+
+```
+
+
+```
+library(vegan)
+```
+
+
+
+
