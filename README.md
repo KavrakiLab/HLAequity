@@ -1,4 +1,7 @@
-# HLAlleleBias
+# HLAEquity
+
+[![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.isci.2023.108613-green)](https://doi.org/10.1016/j.isci.2023.108613)
+
 
 Finding peptide targets that bind to HLAs and trigger an immune response is challenging, and peptide-HLA (pHLA) binding prediction is one of the crucial steps in the development of personalized peptide vaccines. Machine Learning (ML) pHLA binding prediction tools are trained on vast amounts of pHLA binding data. ML predictions are effective in guiding the search for therapeutic peptide targets. However, the use of datasets with imbalanced allele content raises concerns about biased performance toward certain geographic populations. We examine the bias of two ML-based pan-allele pHLA binding affinity predictors. We aim to draw attention to the potential therapeutic consequences of this bias, and we challenge the use of the term "pan-allele" to describe models trained with currently available public datasets.
 
